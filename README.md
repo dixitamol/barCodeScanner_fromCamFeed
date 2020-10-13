@@ -9,3 +9,9 @@ Read text to identify brand name and product info from the camera screen (withou
 
 
 # result to be the input of the web queries
+
+
+
+Model Images (restricted access as of now)
+https://drive.google.com/file/d/1Pgons9wE1VgkQrkXCWJonhfeF8u1WWVV/view?usp=sharing
+https://drive.google.com/file/d/1heNVmVJi4ZOlT51wPvqbxgQgxxNYXiUU/view?usp=sharing
