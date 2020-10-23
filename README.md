@@ -1,7 +1,9 @@
 barCodeScanner_fromCamFeed
 then product search
 
-
+Update::
+Overall project scrapped for now. 
+however, the module to be built.
 
 ## Below idea depricated
 ##### textReader_fromCameraScreen
